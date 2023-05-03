@@ -1,0 +1,17 @@
+/Users/lao/Projects/Sodimac/Sodmac.Data/bin/Debug/net7.0/Sodmac.Data.deps.json
+/Users/lao/Projects/Sodimac/Sodmac.Data/bin/Debug/net7.0/Sodmac.Data.runtimeconfig.json
+/Users/lao/Projects/Sodimac/Sodmac.Data/bin/Debug/net7.0/Sodmac.Data.dll
+/Users/lao/Projects/Sodimac/Sodmac.Data/bin/Debug/net7.0/Sodmac.Data.pdb
+/Users/lao/Projects/Sodimac/Sodmac.Data/bin/Debug/net7.0/Sodimac.Model.dll
+/Users/lao/Projects/Sodimac/Sodmac.Data/bin/Debug/net7.0/Sodimac.Model.pdb
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/Sodmac.Data.csproj.AssemblyReference.cache
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/Sodmac.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/Sodmac.Data.AssemblyInfoInputs.cache
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/Sodmac.Data.AssemblyInfo.cs
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/Sodmac.Data.csproj.CoreCompileInputs.cache
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/Sodmac.Data.csproj.CopyComplete
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/Sodmac.Data.dll
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/refint/Sodmac.Data.dll
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/Sodmac.Data.pdb
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/Sodmac.Data.genruntimeconfig.cache
+/Users/lao/Projects/Sodimac/Sodmac.Data/obj/Debug/net7.0/ref/Sodmac.Data.dll
