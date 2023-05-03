@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sodimac.API", "Sodimac.API\Sodimac.API.csproj", "{4602B157-A004-43AF-AE95-37D8FB9C042E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sodmac.Data", "Sodmac.Data\Sodmac.Data.csproj", "{E54A72FD-4718-482A-8F39-371A3F152976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sodimac.Model", "Sodimac.Model\Sodimac.Model.csproj", "{DB40D7E4-5E1E-4686-9C88-E4010328933F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sodimac.Business", "Sodimac.Business\Sodimac.Business.csproj", "{1212B993-9954-489C-9641-A050AFB874A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4602B157-A004-43AF-AE95-37D8FB9C042E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4602B157-A004-43AF-AE95-37D8FB9C042E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4602B157-A004-43AF-AE95-37D8FB9C042E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4602B157-A004-43AF-AE95-37D8FB9C042E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54A72FD-4718-482A-8F39-371A3F152976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54A72FD-4718-482A-8F39-371A3F152976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54A72FD-4718-482A-8F39-371A3F152976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54A72FD-4718-482A-8F39-371A3F152976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB40D7E4-5E1E-4686-9C88-E4010328933F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB40D7E4-5E1E-4686-9C88-E4010328933F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB40D7E4-5E1E-4686-9C88-E4010328933F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB40D7E4-5E1E-4686-9C88-E4010328933F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1212B993-9954-489C-9641-A050AFB874A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1212B993-9954-489C-9641-A050AFB874A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1212B993-9954-489C-9641-A050AFB874A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1212B993-9954-489C-9641-A050AFB874A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86E62DF-1222-49C0-BE6A-625292B19C44}
+	EndGlobalSection
+EndGlobal
