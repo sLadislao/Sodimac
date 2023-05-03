@@ -1,0 +1,12 @@
+/Users/lao/Projects/Sodimac/Sodimac.Model/bin/Debug/net7.0/Sodimac.Model.deps.json
+/Users/lao/Projects/Sodimac/Sodimac.Model/bin/Debug/net7.0/Sodimac.Model.dll
+/Users/lao/Projects/Sodimac/Sodimac.Model/bin/Debug/net7.0/Sodimac.Model.pdb
+/Users/lao/Projects/Sodimac/Sodimac.Model/obj/Debug/net7.0/Sodimac.Model.csproj.AssemblyReference.cache
+/Users/lao/Projects/Sodimac/Sodimac.Model/obj/Debug/net7.0/Sodimac.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lao/Projects/Sodimac/Sodimac.Model/obj/Debug/net7.0/Sodimac.Model.AssemblyInfoInputs.cache
+/Users/lao/Projects/Sodimac/Sodimac.Model/obj/Debug/net7.0/Sodimac.Model.AssemblyInfo.cs
+/Users/lao/Projects/Sodimac/Sodimac.Model/obj/Debug/net7.0/Sodimac.Model.csproj.CoreCompileInputs.cache
+/Users/lao/Projects/Sodimac/Sodimac.Model/obj/Debug/net7.0/Sodimac.Model.dll
+/Users/lao/Projects/Sodimac/Sodimac.Model/obj/Debug/net7.0/refint/Sodimac.Model.dll
+/Users/lao/Projects/Sodimac/Sodimac.Model/obj/Debug/net7.0/Sodimac.Model.pdb
+/Users/lao/Projects/Sodimac/Sodimac.Model/obj/Debug/net7.0/ref/Sodimac.Model.dll
