@@ -1,0 +1,17 @@
+/Users/lao/Projects/Sodimac/Sodimac.Business/bin/Debug/net7.0/Sodimac.Business.deps.json
+/Users/lao/Projects/Sodimac/Sodimac.Business/bin/Debug/net7.0/Sodimac.Business.dll
+/Users/lao/Projects/Sodimac/Sodimac.Business/bin/Debug/net7.0/Sodimac.Business.pdb
+/Users/lao/Projects/Sodimac/Sodimac.Business/bin/Debug/net7.0/Sodimac.Model.dll
+/Users/lao/Projects/Sodimac/Sodimac.Business/bin/Debug/net7.0/Sodmac.Data.dll
+/Users/lao/Projects/Sodimac/Sodimac.Business/bin/Debug/net7.0/Sodimac.Model.pdb
+/Users/lao/Projects/Sodimac/Sodimac.Business/bin/Debug/net7.0/Sodmac.Data.pdb
+/Users/lao/Projects/Sodimac/Sodimac.Business/obj/Debug/net7.0/Sodimac.Business.csproj.AssemblyReference.cache
+/Users/lao/Projects/Sodimac/Sodimac.Business/obj/Debug/net7.0/Sodimac.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lao/Projects/Sodimac/Sodimac.Business/obj/Debug/net7.0/Sodimac.Business.AssemblyInfoInputs.cache
+/Users/lao/Projects/Sodimac/Sodimac.Business/obj/Debug/net7.0/Sodimac.Business.AssemblyInfo.cs
+/Users/lao/Projects/Sodimac/Sodimac.Business/obj/Debug/net7.0/Sodimac.Business.csproj.CoreCompileInputs.cache
+/Users/lao/Projects/Sodimac/Sodimac.Business/obj/Debug/net7.0/Sodimac.Business.csproj.CopyComplete
+/Users/lao/Projects/Sodimac/Sodimac.Business/obj/Debug/net7.0/Sodimac.Business.dll
+/Users/lao/Projects/Sodimac/Sodimac.Business/obj/Debug/net7.0/refint/Sodimac.Business.dll
+/Users/lao/Projects/Sodimac/Sodimac.Business/obj/Debug/net7.0/Sodimac.Business.pdb
+/Users/lao/Projects/Sodimac/Sodimac.Business/obj/Debug/net7.0/ref/Sodimac.Business.dll
